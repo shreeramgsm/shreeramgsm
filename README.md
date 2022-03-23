@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shreeramgsm
-- 👀 I’m interested in ...Learning Spring Boot, Microservices, Kubernetes, Eureka & AWS
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ...Learning Spring Boot, Microservices, Kubernetes, Eureka, ReactJS & AWS
+- 🌱 I’m currently learning ...Sprint Boot & ReactJS
+- 💞️ I’m looking to collaborate on ...AWS, IBM FileNet, Microservice Architecture
 - 📫 How to reach me ...+60176593649
 
 <!---
